@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">trabalho004</string>
+
+    <string name="textTitle_1">Constraint Layout Atividade 3</string>
+
+
+    <string name="headerTitle">Melhor Texto</string>
+    <string name="textParagraf1">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eros mi, posuere eu egestas id, congue in velit. Proin vitae magna turpis. Pellentesque dictum nulla mattis, maximus arcu at, posuere elit.
+    </string>
+    <string name="textParagraf2">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eros mi, posuere eu egestas id, congue in velit. Proin vitae magna turpis. Pellentesque dictum nulla mattis, maximus arcu at, posuere elit. Maecenas eget iaculis odio. Vestibulum vel velit accumsan, varius lacus ut, aliquam ex. Morbi nec eros mauris.
+    </string>
+
+    <string name="textBTN1">Esquerda</string>
+    <string name="textBTN2">Empate</string>
+    <string name="textBTN3">Direita</string>
+
+
+</resources>
